@@ -23,7 +23,7 @@
   ],
   "main": "./lib-npx/install.js",
   "bin": {
-    "iob-install-npx": "./lib-npx/install.js"
+    "iobnpx": "./lib-npx/install.js"
   },
   "homepage": "http://iobroker.net",
   "description": "automate your life - platform",
